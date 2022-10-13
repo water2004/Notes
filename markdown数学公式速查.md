@@ -2,17 +2,29 @@
 
 ## 数学运算符
 
-| ±   | \pm    |
-| --- | ------ |
-| ×   | \times |
-| ÷   | \div   |
-| ∑   | \sum   |
-| ∏   | \prod  |
-| ≠   | \neq   |
-| ≤   | \leq   |
-| ≥   | \geq   |
+| ±         | \pm     |
+| --------- | ------- |
+| ×         | \times  |
+| ÷         | \div    |
+| ∑         | \sum    |
+| ∏         | \prod   |
+| ≠         | \neq    |
+| ≤         | \leq    |
+| ≥         | \geq    |
+| $\equiv$  | \equiv  |
+| $\approx$ | \approx |
 
 ## 集合
+
+| $\in$       | \in       |
+| ----------- | --------- |
+| $\notin$    | \notin    |
+| $\subset$   | \subset   |
+| $\supset$   | \supset   |
+| $\subseteq$ | \subseteq |
+| $\supseteq$ | \supseteq |
+| $\cap$      | \cap      |
+| $\cup$      | \cup      |
 
 ## 箭头
 
@@ -52,16 +64,19 @@
 
 ## 三角
 
-| sin   | \sin     |
-| ----- | -------- |
-| cos   | \cos     |
-| tan   | \tan     |
-| cot   | \cot     |
-| sec   | \sec     |
-| csc   | \csc     |
-| ⊥     | \bot     |
-| ∠     | \angle   |
-| 4 0 ∘ | 40^\circ |
+| $\sin$       | \sin       |
+| ------------ | ---------- |
+| $\cos$       | \cos       |
+| $\tan$       | \tan       |
+| $\cot$       | \cot       |
+| $\sec$       | \sec       |
+| $\csc$       | \csc       |
+| $\arcsin$    | \arcsin    |
+| $\arccos$    | \arccos    |
+| $\arctan$    | \arctan    |
+| ⊥            | \bot       |
+| ∠            | \angle     |
+| $40^{\circ}$ | 40^{\circ} |
 
 ## 括号
 
@@ -76,6 +91,15 @@
 | 自适应括号 | \left, \right                   |
 
 ## 微积分
+
+| $\lim\limits_{x\to\infty}$      | \lim\limits_{x\to\infty}      |
+| ------------------------------- | ----------------------------- |
+| $\frac{dy}{dx}$                 | \frac{dy}{dx}                 |
+| $\frac{\partial y}{\partial x}$ | \frac{\partial y}{\partial x} |
+| $\int$                          | \int                          |
+| $\int^b_a$                      | \int^b_a                      |
+
+
 
 ## 矢量
 
